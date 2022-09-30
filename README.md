@@ -1,1 +1,1 @@
-# SMS_Spam_Detection_DNN_LSTM_BiLSTM
+# SMS_Spam_Detection_DNN
